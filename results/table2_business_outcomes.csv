@@ -1,0 +1,46 @@
+Model,structural,independent,correlated,mixed
+BEMMAOR-indiv-rfree,"targeting_lift: 176.1%±38.5
+lead_time_train_mean: 11.37±0.55
+timing_accuracy: 0.36±0.01","targeting_lift: 165.5%±29.4
+lead_time_train_mean: 13.30±0.92
+timing_accuracy: 0.51±0.02","targeting_lift: 148.8%±39.2
+lead_time_train_mean: 8.48±0.33
+timing_accuracy: 0.25±0.01","targeting_lift: 203.0%±53.2
+lead_time_train_mean: 11.24±0.53
+timing_accuracy: 0.38±0.02"
+Heckman-indiv-rfree,"targeting_lift: 3.0%±1.6
+lead_time_train_mean: 10.31±0.83
+timing_accuracy: 0.32±0.01","targeting_lift: 5.8%±1.7
+lead_time_train_mean: 13.06±0.64
+timing_accuracy: 0.50±0.02","targeting_lift: 2.1%±1.4
+lead_time_train_mean: 9.07±0.52
+timing_accuracy: 0.23±0.01","targeting_lift: 3.4%±1.7
+lead_time_train_mean: 11.63±0.46
+timing_accuracy: 0.37±0.03"
+Heckman-global-rfree,"targeting_lift: 3.9%±1.7
+lead_time_train_mean: 12.91±0.77
+timing_accuracy: 0.32±0.01","targeting_lift: 5.2%±1.6
+lead_time_train_mean: 13.15±0.71
+timing_accuracy: 0.51±0.02","targeting_lift: 2.1%±1.2
+lead_time_train_mean: 10.67±0.89
+timing_accuracy: 0.22±0.02","targeting_lift: 3.9%±1.9
+lead_time_train_mean: 12.16±0.51
+timing_accuracy: 0.37±0.03"
+Hurdle-rfree,"targeting_lift: 2.8%±1.4
+lead_time_train_mean: 11.71±0.53
+timing_accuracy: 0.32±0.01","targeting_lift: 6.0%±2.2
+lead_time_train_mean: 13.20±0.73
+timing_accuracy: 0.51±0.02","targeting_lift: 1.5%±1.2
+lead_time_train_mean: 9.17±0.48
+timing_accuracy: 0.23±0.01","targeting_lift: 2.4%±1.9
+lead_time_train_mean: 11.82±0.38
+timing_accuracy: 0.36±0.02"
+BEMMAOR-global-rfree,"targeting_lift: 0.9%±3.4
+lead_time_train_mean: 12.43±0.76
+timing_accuracy: 0.31±0.01","targeting_lift: 3.9%±0.8
+lead_time_train_mean: 12.87±0.48
+timing_accuracy: 0.50±0.03","targeting_lift: 1.1%±2.3
+lead_time_train_mean: 11.27±1.23
+timing_accuracy: 0.21±0.01","targeting_lift: 2.4%±1.4
+lead_time_train_mean: 12.72±0.83
+timing_accuracy: 0.36±0.02"

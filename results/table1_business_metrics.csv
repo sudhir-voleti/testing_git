@@ -1,0 +1,46 @@
+Model,structural,independent,correlated,mixed
+BEMMAOR-indiv-rfree,"ari_train: 0.455±0.017
+pp_clv_pred_mean: 8094±2575
+whale_f1: 0.890±0.099","ari_train: 0.591±0.018
+pp_clv_pred_mean: 9509±2224
+whale_f1: 0.800±0.047","ari_train: 0.359±0.011
+pp_clv_pred_mean: 10064±2116
+whale_f1: 0.900±0.067","ari_train: 0.410±0.013
+pp_clv_pred_mean: 7900±2006
+whale_f1: 0.880±0.079"
+Heckman-indiv-rfree,"ari_train: 0.373±0.015
+pp_clv_pred_mean: 3925±658
+whale_f1: 0.200±0.125","ari_train: 0.587±0.015
+pp_clv_pred_mean: 4600±431
+whale_f1: 0.160±0.126","ari_train: 0.291±0.012
+pp_clv_pred_mean: 4070±611
+whale_f1: 0.080±0.063","ari_train: 0.359±0.009
+pp_clv_pred_mean: 4278±561
+whale_f1: 0.140±0.097"
+Heckman-global-rfree,"ari_train: 0.360±0.018
+pp_clv_pred_mean: 8933±1533
+whale_f1: 0.090±0.088","ari_train: 0.583±0.016
+pp_clv_pred_mean: 3870±428
+whale_f1: 0.100±0.067","ari_train: 0.263±0.015
+pp_clv_pred_mean: 6703±1170
+whale_f1: 0.070±0.067","ari_train: 0.340±0.009
+pp_clv_pred_mean: 5390±634
+whale_f1: 0.080±0.079"
+Hurdle-rfree,"ari_train: 0.371±0.020
+pp_clv_pred_mean: 4091±835
+whale_f1: 0.110±0.110","ari_train: 0.587±0.016
+pp_clv_pred_mean: 5177±812
+whale_f1: 0.110±0.074","ari_train: 0.290±0.012
+pp_clv_pred_mean: 4369±640
+whale_f1: 0.080±0.092","ari_train: 0.354±0.009
+pp_clv_pred_mean: 4359±556
+whale_f1: 0.080±0.079"
+BEMMAOR-global-rfree,"ari_train: 0.383±0.017
+pp_clv_pred_mean: 874±257
+whale_f1: 0.080±0.084","ari_train: 0.577±0.013
+pp_clv_pred_mean: 815±117
+whale_f1: 0.140±0.055","ari_train: 0.260±0.009
+pp_clv_pred_mean: 834±159
+whale_f1: 0.080±0.084","ari_train: 0.321±0.004
+pp_clv_pred_mean: 1132±60
+whale_f1: 0.100±0.071"
